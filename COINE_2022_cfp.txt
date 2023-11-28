@@ -76,10 +76,7 @@ discuss the potentially varying viewpoints and facilitate the
 exploration of synergies as well as collaborative opportunities across 
 community boundaries.
 
-COINE inherited COIN’s B-rating on the Computing Research and Education 
-Association of Australasia (CORE) conference ranking list 
-http://portal.core.edu.au/conf-ranks/2160/. COIN holds a B4 rating by 
-the Qualis ranking from CAPES (Brazil).
+COIN holds a B4 rating by the Qualis ranking from CAPES (Brazil). (**** CHECK THIS ****)
 
 
 Important Dates
