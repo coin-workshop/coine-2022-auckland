@@ -30,7 +30,7 @@ A specific emphasis of this year's iteration of COINE lies on the response to gr
 
 To leverage a broader understanding on how COINE-related themes are employed in these research disciplines, we will invite established researchers from the respective fields in order to highlight their perspectives on and adoption of COINE theory and technologies. Building on those insights, we will use this workshop to provide a platform to discuss the potentially varying viewpoints and facilitate the exploration of synergies as well as collaborative opportunities across community boundaries.
 
-COINE inherited COIN's B-rating on the Computing Research and Education Association of Australasia (CORE) conference ranking list ([http://portal.core.edu.au/conf-ranks/2160/](http://portal.core.edu.au/conf-ranks/2160/)). COIN holds a B4 rating by the Qualis ranking from CAPES (Brazil).
+COIN holds a B4 rating by the Qualis ranking from CAPES (Brazil). **CHECK THIS**
 
 
 ### Important Dates (Updated)
